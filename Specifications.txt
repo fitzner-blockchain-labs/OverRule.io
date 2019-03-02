@@ -1,0 +1,7 @@
+Bid Crypots. Adding funds to account which gradually rises with bids. 
+
+You can bid to other people. Staking. 
+
+Free advertisement (logos) on website. 
+
+Bid -> Bid comes from address -> highest account total takes control through pointer to website html -> repeat 
